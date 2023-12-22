@@ -7,7 +7,7 @@ pyxm
 pyxm is a data acquisition manager for scanning tunneling, scanning probe, or atomic force microscopes written in Python 3.11 with the PySide6 GUI library.
 It aims to provide a simple and intuitive interface for users to queue up multiple sets of images and spectroscopy tasks to preform in a user-defined order.
 TCP/IP commands can be customized through a JSON file to fit the needs of any system.
-pyxm is designed to communicate with an already existing STM controller and cannot control an STM directly.
+pyxm is designed to communicate with an already existing microscopy controller and cannot control a microscope directly.
 
 **⚠️ pyxm is currently in an experimental stage and only been tested on the RHK PanScan Freedom system. ⚠️**
 
