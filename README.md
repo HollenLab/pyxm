@@ -20,10 +20,7 @@ pyxm is designed to communicate with an already existing STM controller and cann
 - [x] Customize TCP/IP commands to accomodate syntax used by the users STM controller.
 - [ ] Save task sets for reuse or documentation.
 
-## Installation
-The latest release of pyxm can be downloaded from the [releases](https://github.com/bhc1010/pyxm/releases) section.
-
-## Build from source
+## Run from source
 
 1. Clone the repository:
 ```console
