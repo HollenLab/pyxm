@@ -4,7 +4,7 @@ pyxm
 
 ![pyxm app](https://github.com/HollenLab/pyxm/blob/main/assets/pyxm.png)
 
-pyxm is a task management system for scanning tunneling, scanning probe, or atomic force microscopes written in Python 3.11, with the PySide6 GUI library.
+pyxm is a task management system for scanning tunneling, scanning probe, or atomic force microscopes written in Python 3.11 with the PySide6 GUI library.
 It aims to provide a simple and intuitive interface for users to queue up multiple sets of images and spectroscopy tasks to preform in a user-defined order.
 TCP/IP commands can be customized through a JSON file to fit the needs of any system.
 pyxm is designed to communicate with an already existing STM controller and cannot control an STM directly.
