@@ -9,7 +9,7 @@ It aims to provide a simple and intuitive interface for users to queue up multip
 TCP/IP commands can be customized through a JSON file to fit the needs of any system.
 pyxm is designed to communicate with an already existing microscopy controller and cannot control a microscope directly.
 
-**⚠️ pyxm is currently in an experimental stage and only been tested on the RHK PanScan Freedom system. ⚠️**
+**⚠️ pyxm is currently in an experimental stage and only been tested on the RHK PanScan Freedom STM in the Hollen Lab, at the University of New Hampshire. ⚠️**
 
 ## Features
 
