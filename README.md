@@ -2,7 +2,7 @@
 pyxm 
 </h1>
 
-![pyxm app](https://github.com/bhc1010/pyxm/blob/master/assets/pyxm.png?raw=true)
+![pyxm app](https://github.com/HollenLab/pyxm/blob/main/assets/pyxm.png)
 
 pyxm is a task management system for scanning tunneling microscopes written in Python 3.11, with the PySide6 GUI library.
 It aims to provide a simple and intuitive interface for users to queue up multiple sets of images and spectroscopy tasks to preform in a user-defined order.
