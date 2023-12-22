@@ -16,9 +16,9 @@ pyxm is designed to communicate with an already existing STM controller and cann
 - [x] Connect to an STM device using TCP/IP sockets
 - [x] Fine-tuned control of STM parameters with easy-to-use input fields.
 - [x] Simultaneous execution and creation of tasks allowing for versatile experimentation and efficient workflow management.
-- [ ] Preview images from a task inside scan area.
+- [x] Preview images from a task inside scan area.
+- [x] Customize TCP/IP commands to accomodate syntax used by the users STM controller.
 - [ ] Save task sets for reuse or documentation.
-- [ ] Customize TCP/IP commands to accomodate syntax used by the users STM controller.
 
 ## Installation
 The latest release of pyxm can be downloaded from the [releases](https://github.com/bhc1010/pyxm/releases) section.
